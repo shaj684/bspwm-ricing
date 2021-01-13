@@ -6,7 +6,7 @@
 super + Return
 	rxvt
 
-# gnome-terminal emulator
+# gnome-terminal emulator 
 super + shift + Return
 	gnome-terminal
 
